@@ -16,7 +16,10 @@
 
 PictureStore is currently in **beta — version 0.6**.
 
-The application is actively being developed, so bugs, unfinished features, and unexpected behavior are possible. Feedback, bug reports, and suggestions are welcome!
+PictureStore is actively being developed, so bugs, unfinished features, and unexpected behavior are possible. Feedback, bug reports, and suggestions are welcome!
+
+## 🙌 Coming Soon!
+Macos, And Linux versions
 
 ## 🐛 Bug Reports & Suggestions
 
